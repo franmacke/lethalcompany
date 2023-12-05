@@ -1,4 +1,4 @@
-{
+[{
     "name": "BiggerLobby",
     "version_number": "2.4.0",
     "website_url": "https://github.com/legoandmars/BiggerLobby",
@@ -7,4 +7,31 @@
         "BepInEx-BepInExPack-5.4.2100",
         "2018-LC_API-1.2.1"
     ]
-}
+},
+{
+    "name": "FixCentipedeLag",
+    "version_number": "2023.12.4",
+    "website_url": "https://github.com/sam-k0/LC_FixCentipedeLag",
+    "description": "Tries to remove sudden lag by destroying stuck centipede objects",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+},
+{
+    "name": "Brutal_Company_Plus",
+    "version_number": "3.2.0",
+    "website_url": "",
+    "description": "A customizable hardcore mod that randomizes events ranging between insanity and normal. (Based off Brutal Company By: 2018)",
+    "dependencies": [
+      "MassiveNewCoilers-FixCentipedeLag-2023.12.3",
+      "BepInEx-BepInExPack-5.4.2100"
+    ]
+  },
+  {
+    "name": "BrutalCompanyAdditions",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/Sculas/BrutalCompanyAdditions",
+    "description": "Adds more events to Brutal Company! Requires Brutal Company Plus for now.",
+    "dependencies": [
+      "Nips-Brutal_Company_Plus-3.2.0"
+    ]
+  }
+]
