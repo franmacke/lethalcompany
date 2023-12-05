@@ -10,11 +10,14 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 6 plugins to load
+[Info   :   BepInEx] 7 plugins to load
 [Info   :   BepInEx] Loading [BiggerLobby 2.4.0]
 [Info   :BiggerLobby] BiggerLobby loaded
 [Info   :   BepInEx] Loading [BrutalCompanyPlus 3.2.0]
 [Warning:BrutalCompanyPlus] Loaded Brutal Company Plus and applying patches.
+[Info   :   BepInEx] Loading [ItemQuickSwitchMod 1.1.0]
+[Info   :ItemQuickSwitchMod] ItemQuickSwitchMod is creating binds!
+[Info   :ItemQuickSwitchMod] Plugin ItemQuickSwitchMod is loaded!
 [Info   :   BepInEx] Loading [LC_API 2.1.1]
 [Warning:    LC_API] 
 .____    _________           _____  __________ .___  
@@ -48,43 +51,3 @@
 [Message:    LC_API] server pre-setup success
 [Warning:BrutalCompanyPlus] Modifying the Starting Quota Values based on Config
 [Warning:    LC_API] Asking all other players for their mod list..
-[Warning:BrutalCompanyPlus] 
-
-Added Enemy: > SpringMan < to the Enemy list
-
-
-[Warning:BrutalCompanyPlus] 
-
-Added Enemy: > JesterEnemy < to the Enemy list
-
-
-[Warning:BrutalCompanyAdditions] Injecting custom events...
-[Warning:BrutalCompanyAdditions] Selected original event FaceHuggers
-[Warning:BrutalCompanyPlus] ------------------Setting Rarity Based on Moon Heat--------------------
-[Warning:BrutalCompanyPlus] Centipede rarity set to 81
-[Warning:BrutalCompanyPlus] Bunker Spider rarity set to 79
-[Warning:BrutalCompanyPlus] Hoarding bug rarity set to 92
-[Warning:BrutalCompanyPlus] Flowerman rarity set to 35
-[Warning:BrutalCompanyPlus] Crawler rarity set to 43
-[Warning:BrutalCompanyPlus] Blob rarity set to 74
-[Warning:BrutalCompanyPlus] Girl rarity set to 42
-[Warning:BrutalCompanyPlus] Puffer rarity set to 82
-[Warning:BrutalCompanyPlus] Spring rarity set to 18
-[Warning:BrutalCompanyPlus] Jester rarity set to 32
-[Warning:BrutalCompanyAdditions] Event FaceHuggers is not a custom event, skipping...
-[Info   :BrutalCompanyPlus] Landmine (UnityEngine.GameObject)
-[Info   :BrutalCompanyPlus] TurretContainer (UnityEngine.GameObject)
-[Warning:BrutalCompanyPlus] Map Objects
-[Info   :BrutalCompanyPlus] Landmine (UnityEngine.GameObject)
-[Info   :BrutalCompanyPlus] TurretContainer (UnityEngine.GameObject)
-[Warning:BrutalCompanyPlus] Enemies
-[Info   :BrutalCompanyPlus] Centipede--rarity = 100
-[Info   :BrutalCompanyPlus] Bunker Spider--rarity = 0
-[Info   :BrutalCompanyPlus] Hoarding bug--rarity = 0
-[Info   :BrutalCompanyPlus] Flowerman--rarity = 0
-[Info   :BrutalCompanyPlus] Crawler--rarity = 0
-[Info   :BrutalCompanyPlus] Blob--rarity = 0
-[Info   :BrutalCompanyPlus] Girl--rarity = 0
-[Info   :BrutalCompanyPlus] Puffer--rarity = 0
-[Info   :BrutalCompanyPlus] Spring--rarity = 0
-[Info   :BrutalCompanyPlus] Jester--rarity = 0
