@@ -1,16 +1,4 @@
 
-# BiggerLobby V2.4.0
+# Paquete de mods
 
-Thank you guys for six hundred downloads! It really means a lot! I'm really glad I could make something so many people enjoyed.
-
-## Roadmap
-
-Optimization
-
-Dynamic voice chat culling
-
-Dynamic VOIP sample rate.
-
-##
-
-[Discord Server](https://discord.gg/lcmods)
+Deberias poder descargar los archivos, pegarlos en la carpeta del juego y jugar perfectamente
